@@ -1,0 +1,64 @@
+.headBox{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    color:rgb(117, 125, 133);
+    font-family:'Courier New', Courier, monospace;
+    font-size:30px;
+    border-radius:10px;
+    border-bottom: 5px ridge #ebb;
+    margin-bottom: 10px;
+}
+.centerPosition{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-bottom:10px;
+}
+#idBox{
+    outline:none;
+    margin-bottom:10px;
+    border:0px;
+}
+.showText{
+    width:60%;
+    border-radius:15px;
+    border:1px solid #acc;
+    display:block;
+    margin-bottom: 10px;
+    overflow-y: hidden;
+    text-align: justify;
+    text-justify: inter-word;
+    padding:10px;
+    font-size:30px;
+    font-family:'Times New Roman', Times, serif;
+    word-spacing: 3px;
+    line-height: 1.2;
+}
+#restart,#startBox{
+    padding:5px;
+    border-radius:10px;
+    background-color:rgba(0, 118, 253, 0.507);
+    color:white;
+    margin-left:10px;
+}
+#textBox{
+    outline:none;
+    font-size:23px;
+    font-family:monospace, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(7, 7, 7);
+
+}
+#showWpm{
+    color:rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    padding:10px;
+    border-radius:5px 20px 5px 20px;
+}
+.spanColor1{
+    color:green;
+}
+.spanColor2{
+    color:red;
+}
