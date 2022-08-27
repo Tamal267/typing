@@ -62,3 +62,10 @@
 .spanColor2{
     color:red;
 }
+.developer{
+    position:fixed;
+    right:3px;
+    bottom:0px;
+    color:rgb(167, 156, 156);
+    font-family:fantasy;
+}
