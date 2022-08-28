@@ -1,13 +1,22 @@
+
 .headBox{
-    display:flex;
-    align-items:center;
-    justify-content: center;
-    color:rgb(117, 125, 133);
+    text-align: center;
+    color:rgb(217, 230, 243);
     font-family:'Courier New', Courier, monospace;
     font-size:30px;
     border-radius:10px;
-    border-bottom: 5px ridge #ebb;
+    letter-spacing: 2px;
+    text-shadow:1px 1px 1px rgb(0, 195, 255), -1px -1px 1px rgb(0, 195, 255);
     margin-bottom: 10px;
+    box-shadow: 0px 2px 1px grey;
+    font-weight:bold;
+}
+.headBox .bars{
+    margin:10px;
+    float:right;
+    right:0px;
+    font-size:15px;
+    color:black;
 }
 .centerPosition{
     display:flex;
@@ -15,25 +24,60 @@
     justify-content:center;
     margin-bottom:10px;
 }
+.idBox{
+    color:rgb(79, 176, 206);
+    font-weight:bold;
+}
 #idBox{
     outline:none;
-    margin-bottom:10px;
+    margin-bottom:40px;
     border:0px;
 }
+
 .showText{
     width:60%;
     border-radius:15px;
     border:1px solid #acc;
     display:block;
     margin-bottom: 10px;
-    overflow-y: hidden;
+    overflow: hidden;
     text-align: justify;
     text-justify: inter-word;
     padding:10px;
     font-size:30px;
     font-family:'Times New Roman', Times, serif;
-    word-spacing: 3px;
     line-height: 1.2;
+    background-color:white;
+    box-shadow: 0px 2px 1px grey;
+    z-index:1;
+}
+.centerPosition .divBox1{
+	position:absolute;
+	height:50px;
+	width:50px;
+	border-radius:25px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	animation:round 5s ease-in infinite;
+}
+@keyframes round{
+	0%{transform:rotateZ(0deg);}
+	100%{transform:rotateZ(360deg);}
+}
+.divBox2{
+	background-color:rgb(74, 207, 174);
+	height:100%;
+	width:10px;
+	border-radius:5px;
+	position:absolute;
+}
+.divBox3{
+	position:absolute;
+	height:30px;
+	width:30px;
+	border-radius:15px;
+	background-color:#fdfdfd;
 }
 #restart,#startBox{
     padding:5px;
@@ -62,10 +106,41 @@
 .spanColor2{
     color:red;
 }
+
 .developer{
     position:fixed;
     right:3px;
     bottom:0px;
     color:rgb(167, 156, 156);
     font-family:fantasy;
+}
+.wpmValue{
+    color:rgb(13, 95, 95);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.moreBox{
+    position:fixed;
+    background-color:black;
+    border-radius:20px 0px 0px 0px;
+    border-bottom:8px ridge #ccc;
+    width:100px;
+    right:0px;
+    top:60px;
+    padding:10px;
+    z-index:2;
+}
+#moreBox{
+    display:none;
+}
+.optionStyle{
+    color:white;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:13px;
+    border-radius:5px;
+    font-weight:bold;
+    text-decoration: none;
+    border-bottom:1px solid #acc;
+    margin-bottom:5px;
 }
