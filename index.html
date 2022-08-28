@@ -1,18 +1,43 @@
 <!DOCTYPE html>
 <head>
+    <script>
+        FontAwesomeConfig = { autoReplaceSvg: true }
+    </script>
+    <script src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>
     <link rel="stylesheet" href="typing.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    
     <div class="headBox">
         TYPING COMPETITION
+        <div class="bars">
+            <li class="fas fa-bars" onclick="openCloseBar()"></li>
+        </div>
     </div>
 
     <div class="centerPosition">
         <div class="idBox">
             ID:
-            <input type="text" name="ID" id="idBox" placeholder="123456789">
+            <input type="text" name="ID" id="idBox" placeholder="123456789" size="3px">
         </div>
+    </div>
+
+    <div class="centerPosition" style="z-index:-1;margin-bottom:-10px;">
+        <div class="divBox1">
+			<div class="divBox2" style="transform:rotateZ(0deg);">
+			</div>
+			<div class="divBox2" style="transform:rotateZ(72deg);">
+			</div>
+			<div class="divBox2" style="transform:rotateZ(144deg);">
+			</div>
+			<div class="divBox2" style="transform:rotateZ(216deg);">
+			</div>
+			<div class="divBox2" style="transform:rotateZ(288deg);">
+			</div>
+			<div class="divBox3">
+			</div>
+		</div>
     </div>
 
 
@@ -38,8 +63,16 @@
     <div class="developer">
         Developed by <i>Syed Tamal</i>
     </div>
+    <div class="moreBox" id="moreBox">
+        <div class="optionStyle">
+            Login
+        </div>
+        <div class="optionStyle">
+            Registration
+        </div>
+    </div>
 </body>
+</html>
 <script src="typing.js">
 
 </script>
-</html>
