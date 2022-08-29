@@ -9,7 +9,7 @@ function showingWord(wordList){
     let list=[],x=0,n,i;
     for(i=0;i<wordListLength;i++){
         n=Math.ceil(Math.random()*(wordListLength-1));
-        if(x+(wordList[n].length+1)>119) break;
+        if(x+(wordList[n].length) > 119) break;
         list.push(wordList[n]);
         x+=wordList[n].length+1;
     }
