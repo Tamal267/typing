@@ -32,7 +32,7 @@ document.getElementById("startBox").addEventListener ("click",
 
 //when restart mist icon is clicked
 function openCloseBar(){
-    window.location.href="https://mist.ac.bd/";
+    //window.location.href="https://mist.ac.bd/";
 }
 
 //Showing words in the box
