@@ -21,7 +21,7 @@ let w=0,count=0,character=0;
 console.log(findList2);
 let bar=1;
 let bar2=1;
-
+document.getElementById ("startBox").addEventListener ("click", timeHider, false);
 function timeHider(){
     if(document.getElementById("startBox").style.color=="white" || bar2==1){
         document.getElementById("startBox").style.color=`rgba(0, 118, 253, 0.0)`;
