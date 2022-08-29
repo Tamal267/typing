@@ -20,6 +20,15 @@ let word=[];
 let w=0,count=0,character=0;
 console.log(findList2);
 let bar=1;
+let bar2=1;
+
+function timeHider(){
+    if(document.getElementById("startBox").style.color=="white" || bar2==1){
+        document.getElementById("startBox").style.color=`rgba(0, 118, 253, 0.0)`;
+        bar2=0;
+    }
+    else document.getElementById("startBox").style.color="white";
+}
 
 //when restart button clicked
 function openCloseBar(){
