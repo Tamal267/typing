@@ -32,14 +32,7 @@ document.getElementById("startBox").addEventListener ("click",
 
 //when restart button clicked
 function openCloseBar(){
-    console.log(bar);
-    if(document.getElementById("moreBox").style.display=="none" || bar==1){ 
-        document.getElementById("moreBox").style.display="block";
-        bar =0;
-    }
-    else {
-        document.getElementById("moreBox").style.display="none";
-    }
+    window.location.href="https://mist.ac.bd/";
 }
 
 //Showing words in the box
