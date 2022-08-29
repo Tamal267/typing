@@ -30,7 +30,7 @@ document.getElementById("startBox").addEventListener ("click",
     else document.getElementById("startBox").style.color="white";
 },false);
 
-//when restart button clicked
+//when restart mist icon is clicked
 function openCloseBar(){
     window.location.href="https://mist.ac.bd/";
 }
