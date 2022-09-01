@@ -22,7 +22,7 @@ document.getElementById("showText").innerHTML=findList2;
 let startBoxTime;
 let l=60;
 let word=[];
-let w=0,count=0,character=0;
+let w=0,count=0,character=0,cCount=0;
 console.log(findList2);
 let bar=1;
 let bar2=1;
@@ -50,6 +50,7 @@ function textShowing(){
     word=[];
     w=0;
     count=0;
+    cCount=0;
     character=0;
     document.getElementById("textBox").value="";
     document.getElementById("startBox").innerHTML=l;
@@ -69,6 +70,7 @@ document.addEventListener('keydown',event=>{
         if(findList[w]==undefined) w++;
         if(findList[w]==document.getElementById("textBox").value.trim()) {
             count++;
+            cCount+=findList[w].length;
             findList[w]=`<span class="spanColor1">${findList[w]}</span>`;
         }
         else{
@@ -95,7 +97,7 @@ function wpm(){
         if(l==0) {
             clearInterval(startBoxTime);
             console.log(count);
-            document.getElementById("showWpm").innerHTML+=`<span class="wpmValue">${document.getElementById("idBox").value}</span> <span class="spanColor1">${count+5} </span> <span class="spanColor2">WPM</span><br>`;
+            document.getElementById("showWpm").innerHTML+=`<span class="wpmValue">${document.getElementById("idBox").value}</span> <span class="spanColor1">${count+5} </span> <span class="spanColor2">WPM</span> <span class="spanColor1">${cCount}</span> <span class="spanColor2">Chracter</span><br>`;
         }
     }
 }
