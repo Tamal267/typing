@@ -97,7 +97,7 @@ function wpm(){
         if(l==0) {
             clearInterval(startBoxTime);
             console.log(count);
-            document.getElementById("showWpm").innerHTML+=`<span class="wpmValue">${document.getElementById("idBox").value}</span> <span class="spanColor1">${count+5} </span> <span class="spanColor2">WPM</span> <span class="spanColor1">${cCount}</span> <span class="spanColor2">Chracter</span><br>`;
+            document.getElementById("showWpm").innerHTML+=`<span class="wpmValue">${document.getElementById("idBox").value}</span> <span class="spanColor1">${count} </span> <span class="spanColor2">WPM</span> <span class="spanColor1">${cCount}</span> <span class="spanColor2">Character</span><br>`;
         }
     }
 }
