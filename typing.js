@@ -3,7 +3,6 @@ let wordList=["eight","world","class","have","life","had","many","which","read",
 */
 let wordList=["might","could","he","eight","world","class","have","life","had","many","which","read","close","let","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","mist","cse","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run"];
 let wordListLength=wordList.length;
-console.log(wordListLength);
 let wordNum;
 function showingWord(wordList){
     let list=[],x=0,n,i;
@@ -23,7 +22,6 @@ let startBoxTime;
 let l=60;
 let word=[];
 let w=0,count=0,character=0,cCount=0;
-console.log(findList2);
 let bar=1;
 let bar2=1;
 let bar3=1;
@@ -52,8 +50,6 @@ document.getElementById("merit").addEventListener("click",
     bych.sort(function(a,b) {
         return b.ch - a.ch;
     });
-    console.log(merit);
-    console.log(bych);
     for(let i of bych){
         obCount++;
         document.getElementById("persons").innerHTML+=`<div class="meritPerson">${obCount}. ${i.name}  <span class="wpmMerit">(${i.wordPM} WPM)</span></div>`;
@@ -110,8 +106,7 @@ document.addEventListener('keydown',event=>{
             findList=showingWord(wordList);
             w=-1;
         }
-        document.getElementById("showText").innerHTML=findList.join(" ");
-        console.log(document.getElementById("showText").innerHTML);     
+        document.getElementById("showText").innerHTML=findList.join(" ");     
         w++;
     }
 },false);
@@ -126,7 +121,6 @@ function wpm(){
         if(l==0) {
             clearInterval(startBoxTime);
             merit.push({name: document.getElementById("idBox").value, ch: cCount, wordPM: count});
-            console.log(merit);
             document.getElementById("showWpm").innerHTML+=`<span class="wpmValue">${document.getElementById("idBox").value}</span> <span class="spanColor1">${count} </span> <span class="spanColor2">WPM</span> <span class="spanColor1">${cCount}</span> <span class="spanColor2">Character</span><br>`;
         }
     }
