@@ -1,7 +1,7 @@
 /*
-let wordList=["eight","world","class","have","life","had","many","which","read","close","let","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run","ass","ask","any","box","boy","bye","cow","cup","del","dot","fat","fan","fit","fly","foe","fox","fry","gas","fun","fix","hit","hub","hue","ill","lay","lie","leg","new","pay","pen","pet","tea","tip","yet","ride","race","cold","stay","been","bank","chat","each","evil","even","fair","feel","fine","gone","hear","bowl","born","bone","body","burn","bill","bell","bush","busy","code","data","date","dawn","door","disk","dual","ever","else","fish","falt","flow","full","fuel","from","fund","gear","file","hill","hall","harm","inch","lack","lane","knew","iron","item","lost","meet","push","rear","rank","real","pull","poor","plus","plot","pipe","rate","sell","send","self","seek","save","salt","rose","root","roll","step","tank","tape","tech","task","tend","tone","tony","town","tool","wait","wake","walk","wage","warm","wash","wave","wood"];
+let wordList=["eight","world","class","have","life","had","many","which","read","close","let","mist","cse","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run","ass","ask","any","box","boy","bye","cow","cup","del","dot","fat","fan","fit","fly","foe","fox","fry","gas","fun","fix","hit","hub","hue","ill","lay","lie","leg","new","pay","pen","pet","tea","tip","yet","ride","race","cold","stay","been","bank","chat","each","evil","even","fair","feel","fine","gone","hear","bowl","born","bone","body","burn","bill","bell","bush","busy","code","data","date","dawn","door","disk","dual","ever","else","fish","falt","flow","full","fuel","from","fund","gear","file","hill","hall","harm","inch","lack","lane","knew","iron","item","lost","meet","push","rear","rank","real","pull","poor","plus","plot","pipe","rate","sell","send","self","seek","save","salt","rose","root","roll","step","tank","tape","tech","task","tend","tone","tony","town","tool","wait","wake","walk","wage","warm","wash","wave","wood"];
 */
-let wordList=["might","mist","cse","could","he","eight","world","class","have","life","had","many","which","read","close","let","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run"];
+let wordList=["might","could","he","eight","world","class","have","life","had","many","which","read","close","let","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","mist","cse","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run"];
 let wordListLength=wordList.length;
 console.log(wordListLength);
 let wordNum;
@@ -26,6 +26,9 @@ let w=0,count=0,character=0,cCount=0;
 console.log(findList2);
 let bar=1;
 let bar2=1;
+let bar3=1;
+let obCount=0;
+let merit=[];
 document.getElementById("startBox").addEventListener ("click", 
 ()=>{
     if(document.getElementById("startBox").style.color=="white" || bar2==1){
@@ -39,6 +42,32 @@ document.getElementById("startBox").addEventListener ("click",
 function openCloseBar(){
     window.open('https://mist.ac.bd', '_blank')
 }
+
+
+//When merit button is clicked
+document.getElementById("merit").addEventListener("click", 
+()=>{
+    document.getElementById("meritShow").style.display="block";
+    let bych = merit.slice(0);
+    bych.sort(function(a,b) {
+        return b.ch - a.ch;
+    });
+    console.log(merit);
+    console.log(bych);
+    for(let i of bych){
+        obCount++;
+        document.getElementById("persons").innerHTML+=`<div class="meritPerson">${obCount}. ${i.name}  <span class="wpmMerit">(${i.wordPM} WPM)</span></div>`;
+    }
+    obCount=0;
+},false);
+
+//When closeButton is clicked
+document.getElementById("closeButton").addEventListener("click", 
+()=>{
+    document.getElementById("meritShow").style.display="none";
+    
+    document.getElementById("persons").innerHTML=`<div class="meritPerson" style="margin-top:60px;border-bottom:0px;"></div>`;
+},false);
 
 //Showing words in the box
 function textShowing(){
@@ -96,8 +125,10 @@ function wpm(){
         document.getElementById("startBox").innerHTML=l; 
         if(l==0) {
             clearInterval(startBoxTime);
-            console.log(count);
+            merit.push({name: document.getElementById("idBox").value, ch: cCount, wordPM: count});
+            console.log(merit);
             document.getElementById("showWpm").innerHTML+=`<span class="wpmValue">${document.getElementById("idBox").value}</span> <span class="spanColor1">${count} </span> <span class="spanColor2">WPM</span> <span class="spanColor1">${cCount}</span> <span class="spanColor2">Character</span><br>`;
         }
     }
 }
+
