@@ -2,17 +2,11 @@
 let wordList=["eight","world","class","have","life","had","many","which","read","close","let","mist","cse","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run","ass","ask","any","box","boy","bye","cow","cup","del","dot","fat","fan","fit","fly","foe","fox","fry","gas","fun","fix","hit","hub","hue","ill","lay","lie","leg","new","pay","pen","pet","tea","tip","yet","ride","race","cold","stay","been","bank","chat","each","evil","even","fair","feel","fine","gone","hear","bowl","born","bone","body","burn","bill","bell","bush","busy","code","data","date","dawn","door","disk","dual","ever","else","fish","falt","flow","full","fuel","from","fund","gear","file","hill","hall","harm","inch","lack","lane","knew","iron","item","lost","meet","push","rear","rank","real","pull","poor","plus","plot","pipe","rate","sell","send","self","seek","save","salt","rose","root","roll","step","tank","tape","tech","task","tend","tone","tony","town","tool","wait","wake","walk","wage","warm","wash","wave","wood"];
 */
 let wordList=["might","could","he","eight","world","class","have","life","had","many","which","read","close","let","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","mist","cse","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run"];
-let wordListLength=wordList.length;
-let wordNum;
 function showingWord(wordList){
-    let list=[],x=0,n,i;
-    for(i=0;i<wordListLength;i++){
-        n=Math.ceil(Math.random()*(wordListLength-1));
-        if(x+(wordList[n].length) > 119) break;
-        list.push(wordList[n]);
-        x+=wordList[n].length+1;
+    let list=[],i;
+    for(i=0;i<22;i++){
+        list.push(wordList[Math.ceil(Math.random()*(wordListLength-1))]);
     }
-    wordNum=i-1;
     return list;
 }
 let findList=showingWord(wordList);
@@ -102,7 +96,7 @@ document.addEventListener('keydown',event=>{
             findList[w]=`<span class="spanColor2">${findList[w]}</span>`;
         }
         document.getElementById("textBox").value="";
-        if(w==(wordNum)) {
+        if(w==findList.length -1 ) {
             findList=showingWord(wordList);
             w=-1;
         }
