@@ -3,6 +3,7 @@ let wordList=["eight","world","class","have","life","had","many","which","read",
 */
 let wordList=["might","could","he","eight","world","class","have","life","had","many","which","read","close","let","sea","did","number","more","feet","great","only","group","Dhaka","side","eat","letter","give","but","they","it","well","us","later","has","water","take","you","large","down","face","try","or","time","mother","spell","song","old","look","come","can","food","and","every","far","book","back","him","why","so","came","when","his","white","them","in","along","idea","really","big","is","say","until","seem","change","call","end","quite","the","began","about","last","set","hard","stop","me","kind","obey","are","over","different","be","both","often","once","talk","start","way","another","good","use","study","my","we","still","above","as","sound","under","said","level","example","next","while","little","always","carry","land","an","miss","right","mist","cse","eye","list","into","follow","not","point","before","after","around","think","up","name","story","add","what","too","home","know","at","because","answer","high","their","went","two","see","one","want","where","girl","enough","found","most","river","Comilla","mile","go","school","do","must","saw","no","here","off","together","will","soon","never","run"];
 let wordListLength=wordList.length;
+
 function showingWord(wordList){
     let list=[],i;
     for(i=0;i<22;i++){
