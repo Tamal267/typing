@@ -7,7 +7,7 @@ let wordListLength=wordList.length;
 function showingWord(wordList){
     let list=[],i;
     for(i=0;i<22;i++){
-        list.push(wordList[Math.ceil(Math.random()*(170))]);
+        list.push(wordList[Math.ceil(Math.random()*(wordListLength))]);
     }
     return list;
 }
