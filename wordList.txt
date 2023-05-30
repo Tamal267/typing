@@ -1,0 +1,2267 @@
+"the",
+"of",
+"and",
+"to",
+"a",
+"in",
+"is",
+"you",
+"are",
+"for",
+"that",
+"or",
+"it",
+"as",
+"be",
+"on",
+"your",
+"with",
+"can",
+"have",
+"this",
+"an",
+"by",
+"not",
+"but",
+"at",
+"from",
+"I",
+"they",
+"more",
+"will",
+"if",
+"some",
+"there",
+"what",
+"about",
+"which",
+"when",
+"one",
+"their",
+"all",
+"also",
+"how",
+"many",
+"do",
+"has",
+"most",
+"people",
+"other",
+"time",
+"so",
+"was",
+"we",
+"these",
+"may",
+"like",
+"use",
+"into",
+"than",
+"up",
+"out",
+"who",
+"them",
+"make",
+"because",
+"such",
+"through",
+"get",
+"work",
+"even",
+"different",
+"its",
+"no",
+"our",
+"new",
+"film",
+"just",
+"only",
+"see",
+"used",
+"good",
+"water",
+"been",
+"need",
+"should",
+"very",
+"any",
+"history",
+"often",
+"way",
+"well",
+"art",
+"know",
+"were",
+"then",
+"my",
+"first",
+"would",
+"money",
+"each",
+"over",
+"world",
+"information",
+"map",
+"find",
+"where",
+"much",
+"take",
+"two",
+"want",
+"important",
+"family",
+"those",
+"example",
+"while",
+"he",
+"look",
+"government",
+"before",
+"help",
+"between",
+"go",
+"own",
+"however",
+"business",
+"us",
+"great",
+"his",
+"being",
+"another",
+"health",
+"same",
+"study",
+"why",
+"few",
+"game",
+"might",
+"think",
+"free",
+"too",
+"had",
+"hi",
+"right",
+"still",
+"system",
+"after",
+"computer",
+"best",
+"must",
+"her",
+"life",
+"since",
+"could",
+"does",
+"now",
+"during",
+"learn",
+"around",
+"usually",
+"form",
+"meat",
+"air",
+"day",
+"place",
+"become",
+"number",
+"public",
+"read",
+"keep",
+"part",
+"start",
+"year",
+"every",
+"field",
+"large",
+"once",
+"available",
+"down",
+"give",
+"fish",
+"human",
+"both",
+"local",
+"sure",
+"something",
+"without",
+"come",
+"me",
+"back",
+"better",
+"general",
+"process",
+"she",
+"heat",
+"thanks",
+"specific",
+"enough",
+"long",
+"lot",
+"hand",
+"popular",
+"small",
+"though",
+"experience",
+"include",
+"job",
+"music",
+"person",
+"really",
+"although",
+"thank",
+"book",
+"early",
+"reading",
+"end",
+"method",
+"never",
+"less",
+"play",
+"able",
+"data",
+"feel",
+"high",
+"off",
+"point",
+"type",
+"whether",
+"food",
+"understanding",
+"here",
+"home",
+"certain",
+"economy",
+"little",
+"theory",
+"tonight",
+"law",
+"put",
+"under",
+"value",
+"always",
+"body",
+"common",
+"market",
+"set",
+"bird",
+"guide",
+"provide",
+"change",
+"interest",
+"literature",
+"sometimes",
+"problem",
+"say",
+"next",
+"create",
+"simple",
+"software",
+"state",
+"together",
+"control",
+"knowledge",
+"power",
+"radio",
+"ability",
+"basic",
+"course",
+"economics",
+"hard",
+"add",
+"company",
+"known",
+"love",
+"past",
+"price",
+"size",
+"away",
+"big",
+"internet",
+"possible",
+"television",
+"three",
+"understand",
+"various",
+"yourself",
+"card",
+"difficult",
+"including",
+"list",
+"mind",
+"particular",
+"real",
+"science",
+"trade",
+"consider",
+"either",
+"library",
+"likely",
+"nature",
+"fact",
+"line",
+"product",
+"care",
+"group",
+"idea",
+"risk",
+"several",
+"someone",
+"temperature",
+"united",
+"word",
+"fat",
+"force",
+"key",
+"light",
+"simply",
+"today",
+"training",
+"until",
+"major",
+"name",
+"personal",
+"school",
+"top",
+"current",
+"generally",
+"historical",
+"investment",
+"left",
+"national",
+"amount",
+"level",
+"order",
+"practice",
+"research",
+"sense",
+"service",
+"area",
+"cut",
+"hot",
+"instead",
+"least",
+"natural",
+"physical",
+"piece",
+"show",
+"society",
+"try",
+"check",
+"choose",
+"develop",
+"second",
+"useful",
+"web",
+"activity",
+"boss",
+"short",
+"story",
+"call",
+"industry",
+"last",
+"media",
+"mental",
+"move",
+"pay",
+"sport",
+"thing",
+"actually",
+"against",
+"far",
+"fun",
+"house",
+"let",
+"page",
+"remember",
+"term",
+"test",
+"within",
+"along",
+"answer",
+"increase",
+"oven",
+"quite",
+"scared",
+"single",
+"sound",
+"again",
+"community",
+"definition",
+"focus",
+"individual",
+"matter",
+"safety",
+"turn",
+"everything",
+"kind",
+"quality",
+"soil",
+"ask",
+"board",
+"buy",
+"development",
+"guard",
+"hold",
+"language",
+"later",
+"main",
+"offer",
+"oil",
+"picture",
+"potential",
+"professional",
+"rather",
+"access",
+"additional",
+"almost",
+"especially",
+"garden",
+"international",
+"lower",
+"management",
+"open",
+"player",
+"range",
+"rate",
+"reason",
+"travel",
+"variety",
+"video",
+"week",
+"above",
+"according",
+"cook",
+"determine",
+"future",
+"site",
+"alternative",
+"demand",
+"ever",
+"exercise",
+"following",
+"image",
+"quickly",
+"special",
+"working",
+"case",
+"cause",
+"coast",
+"probably",
+"security",
+"true",
+"whole",
+"action",
+"age",
+"among",
+"bad",
+"boat",
+"country",
+"dance",
+"exam",
+"excuse",
+"grow",
+"movie",
+"organization",
+"record",
+"result",
+"section",
+"across",
+"already",
+"below",
+"building",
+"mouse",
+"allow",
+"cash",
+"class",
+"clear",
+"dry",
+"easy",
+"emotional",
+"equipment",
+"live",
+"nothing",
+"period",
+"physics",
+"plan",
+"store",
+"tax",
+"analysis",
+"cold",
+"commercial",
+"directly",
+"full",
+"involved",
+"itself",
+"low",
+"old",
+"policy",
+"political",
+"purchase",
+"series",
+"side",
+"subject",
+"supply",
+"therefore",
+"thought",
+"basis",
+"boyfriend",
+"deal",
+"direction",
+"mean",
+"primary",
+"space",
+"strategy",
+"technology",
+"worth",
+"army",
+"camera",
+"fall",
+"freedom",
+"paper",
+"rule",
+"similar",
+"stock",
+"weather",
+"yet",
+"bring",
+"chance",
+"environment",
+"everyone",
+"figure",
+"improve",
+"man",
+"model",
+"necessary",
+"positive",
+"produce",
+"search",
+"source",
+"beginning",
+"child",
+"earth",
+"else",
+"healthy",
+"instance",
+"maintain",
+"month",
+"present",
+"program",
+"spend",
+"talk",
+"truth",
+"upset",
+"begin",
+"chicken",
+"close",
+"creative",
+"design",
+"feature",
+"financial",
+"head",
+"marketing",
+"material",
+"medical",
+"purpose",
+"question",
+"rock",
+"salt",
+"tell",
+"themselves",
+"traditional",
+"university",
+"writing",
+"act",
+"article",
+"birth",
+"car",
+"cost",
+"department",
+"difference",
+"dog",
+"drive",
+"exist",
+"federal",
+"goal",
+"green",
+"late",
+"news",
+"object",
+"scale",
+"sun",
+"support",
+"tend",
+"thus",
+"audience",
+"enjoy",
+"entire",
+"fishing",
+"fit",
+"glad",
+"growth",
+"income",
+"marriage",
+"note",
+"perform",
+"profit",
+"proper",
+"related",
+"remove",
+"rent",
+"return",
+"run",
+"speed",
+"strong",
+"style",
+"throughout",
+"user",
+"war",
+"actual",
+"appropriate",
+"bank",
+"combination",
+"complex",
+"content",
+"craft",
+"due",
+"easily",
+"effective",
+"eventually",
+"exactly",
+"failure",
+"half",
+"inside",
+"meaning",
+"medicine",
+"middle",
+"outside",
+"philosophy",
+"regular",
+"reserve",
+"standard",
+"bus",
+"decide",
+"exchange",
+"eye",
+"fast",
+"fire",
+"identify",
+"independent",
+"leave",
+"original",
+"position",
+"pressure",
+"reach",
+"rest",
+"serve",
+"stress",
+"teacher",
+"watch",
+"wide",
+"advantage",
+"beautiful",
+"benefit",
+"box",
+"charge",
+"communication",
+"complete",
+"continue",
+"frame",
+"issue",
+"limited",
+"night",
+"protect",
+"require",
+"significant",
+"step",
+"successful",
+"unless",
+"active",
+"break",
+"chemistry",
+"cycle",
+"disease",
+"disk",
+"electrical",
+"energy",
+"expensive",
+"face",
+"interested",
+"item",
+"metal",
+"nation",
+"negative",
+"occur",
+"paint",
+"pregnant",
+"review",
+"road",
+"role",
+"room",
+"safe",
+"screen",
+"soup",
+"stay",
+"structure",
+"view",
+"visit",
+"visual",
+"write",
+"wrong",
+"account",
+"advertising",
+"affect",
+"ago",
+"anyone",
+"approach",
+"avoid",
+"ball",
+"behind",
+"certainly",
+"concerned",
+"cover",
+"discipline",
+"location",
+"medium",
+"normally",
+"prepare",
+"quick",
+"ready",
+"report",
+"rise",
+"share",
+"success",
+"addition",
+"apartment",
+"balance",
+"bit",
+"black",
+"bottom",
+"build",
+"choice",
+"education",
+"gift",
+"impact",
+"machine",
+"math",
+"moment",
+"painting",
+"politics",
+"shape",
+"straight",
+"tool",
+"walk",
+"white",
+"wind",
+"achieve",
+"address",
+"attention",
+"average",
+"believe",
+"beyond",
+"career",
+"culture",
+"decision",
+"direct",
+"event",
+"excellent",
+"extra",
+"intelligent",
+"interesting",
+"junior",
+"morning",
+"pick",
+"poor",
+"pot",
+"pretty",
+"property",
+"receive",
+"seem",
+"shopping",
+"sign",
+"student",
+"table",
+"task",
+"unique",
+"wood",
+"anything",
+"classic",
+"competition",
+"condition",
+"contact",
+"credit",
+"currently",
+"discuss",
+"distribution",
+"egg",
+"entertainment",
+"final",
+"happy",
+"hope",
+"ice",
+"lift",
+"mix",
+"network",
+"north",
+"office",
+"overall",
+"population",
+"president",
+"private",
+"realize",
+"responsible",
+"separate",
+"square",
+"stop",
+"teach",
+"unit",
+"western",
+"yes",
+"alone",
+"attempt",
+"category",
+"cigarette",
+"concern",
+"contain",
+"context",
+"cute",
+"date",
+"effect",
+"extremely",
+"familiar",
+"finally",
+"fly",
+"follow",
+"helpful",
+"introduction",
+"link",
+"official",
+"opportunity",
+"perfect",
+"performance",
+"post",
+"recent",
+"refer",
+"solve",
+"star",
+"voice",
+"willing",
+"born",
+"bright",
+"broad",
+"capital",
+"challenge",
+"comfortable",
+"constantly",
+"describe",
+"despite",
+"driver",
+"flat",
+"flight",
+"friend",
+"gain",
+"him",
+"length",
+"magazine",
+"maybe",
+"newspaper",
+"nice",
+"prefer",
+"prevent",
+"properly",
+"relationship",
+"rich",
+"save",
+"self",
+"shot",
+"soon",
+"specifically",
+"stand",
+"teaching",
+"warm",
+"wonderful",
+"young",
+"ahead",
+"brush",
+"cell",
+"couple",
+"daily",
+"dealer",
+"debate",
+"discover",
+"ensure",
+"exit",
+"expect",
+"experienced",
+"fail",
+"finding",
+"front",
+"function",
+"heavy",
+"hello",
+"highly",
+"immediately",
+"impossible",
+"invest",
+"lack",
+"lake",
+"lead",
+"listen",
+"living",
+"member",
+"message",
+"phone",
+"plant",
+"plastic",
+"reduce",
+"relatively",
+"scene",
+"serious",
+"slowly",
+"speak",
+"spot",
+"summer",
+"taste",
+"theme",
+"towards",
+"track",
+"valuable",
+"whatever",
+"wing",
+"worry",
+"appear",
+"appearance",
+"association",
+"brain",
+"button",
+"click",
+"concept",
+"correct",
+"customer",
+"death",
+"desire",
+"discussion",
+"explain",
+"explore",
+"express",
+"fairly",
+"fixed",
+"foot",
+"gas",
+"handle",
+"housing",
+"huge",
+"inflation",
+"influence",
+"insurance",
+"involve",
+"leading",
+"lose",
+"meet",
+"mood",
+"notice",
+"primarily",
+"rain",
+"rare",
+"release",
+"sell",
+"slow",
+"technical",
+"typical",
+"upon",
+"wall",
+"woman",
+"advice",
+"afford",
+"agree",
+"base",
+"blood",
+"clean",
+"competitive",
+"completely",
+"critical",
+"damage",
+"distance",
+"effort",
+"electronic",
+"expression",
+"feeling",
+"finish",
+"fresh",
+"hear",
+"immediate"
+importance 	14 		(noun)
+normal 	14 		(adjective, noun)
+opinion 	14 		(noun)
+otherwise 	14 		(adverb, adjective)
+pair 	14 		(noun, verb)
+payment 	14 		(noun)
+plus 	14 		(preposition, adjective, noun, conjunction)
+press 	14 		(verb, noun)
+reality 	14 		(noun)
+remain 	14 		(verb)
+represent 	14 		(verb)
+responsibility 	14 		(noun)
+ride 	14 		(verb, noun)
+savings 	14 		(noun, adjective, preposition)
+secret 	14 		(adjective, noun)
+situation 	14 		(noun)
+skill 	14 		(noun)
+spread 	14 		(verb, noun)
+spring 	14 		(verb, noun)
+staff 	14 		(noun, verb)
+statement 	14 		(noun)
+sugar 	14 		(noun, verb)
+target 	14 		(noun, verb)
+text 	14 		(noun, verb)
+tough 	14 		(adjective, noun)
+ultimately 	14 		(adverb)
+wait 	14 		(verb, noun)
+wealth 	14 		(noun)
+whenever 	14 		(conjunction, adverb)
+whose 	14 		(pronoun)
+widely 	14 		(adverb)
+animal 	13 		(noun, adjective)
+application 	13 		(noun)
+apply 	13 		(verb)
+author 	13 		(noun, verb)
+aware 	13 		(adjective)
+brown 	13 		(adjective, noun, verb)
+budget 	13 		(noun, adjective, verb)
+cheap 	13 		(adjective, adverb)
+city 	13 		(noun)
+complicated 	13 		(past, verb)
+county 	13 		(noun)
+deep 	13 		(adjective, noun, adverb)
+depth 	13 		(noun)
+discount 	13 		(noun, verb, adjective)
+display 	13 		(verb, noun)
+educational 	13 		(adjective)
+environmental 	13 		(adjective)
+estate 	13 		(noun)
+file 	13 		(noun, verb)
+flow 	13 		(verb, noun)
+forget 	13 		(verb)
+foundation 	13 		(noun)
+global 	13 		(adjective)
+grandmother 	13 		(noun)
+ground 	13 		(noun, verb, adjective)
+heart 	13 		(noun)
+hit 	13 		(verb, noun)
+legal 	13 		(adjective)
+lesson 	13 		(noun, verb)
+minute 	13 		(noun, adjective, verb)
+near 	13 		(adverb, preposition, adjective, verb)
+objective 	13 		(adjective, noun)
+officer 	13 		(noun, verb)
+perspective 	13 		(noun)
+phase 	13 		(noun, verb)
+photo 	13 		(noun)
+recently 	13 		(adverb)
+recipe 	13 		(noun)
+recommend 	13 		(verb)
+reference 	13 		(noun, verb, adjective)
+register 	13 		(noun, verb)
+relevant 	13 		(adjective)
+rely 	13 		(verb)
+secure 	13 		(adjective, verb)
+seriously 	13 		(adverb)
+shoot 	13 		(verb, noun, interjection)
+sky 	13 		(noun, verb)
+stage 	13 		(noun, verb)
+stick 	13 		(noun, verb)
+studio 	13 		(noun)
+thin 	13 		(adjective, adverb, verb)
+title 	13 		(noun, verb)
+topic 	13 		(noun)
+touch 	13 		(verb, noun)
+trouble 	13 		(noun, verb)
+vary 	13 		(verb)
+accurate 	12 		(adjective)
+advanced 	12 		(past, verb, adjective, noun)
+bowl 	12 		(noun, verb)
+bridge 	12 		(noun, verb)
+campaign 	12 		(noun, verb)
+cancel 	12 		(verb, noun)
+capable 	12 		(adjective)
+character 	12 		(noun, adjective, verb)
+chemical 	12 		(adjective, noun)
+club 	12 		(noun, verb)
+collection 	12 		(noun)
+cool 	12 		(adjective, adverb, noun, verb)
+cry 	12 		(verb, noun, idiom)
+dangerous 	12 		(adjective)
+depression 	12 		(noun)
+dump 	12 		(verb, noun, idiom)
+edge 	12 		(noun, verb, idiom)
+evidence 	12 		(noun, verb, idiom)
+extreme 	12 		(adjective, noun)
+fan 	12 		(noun, verb, idiom)
+frequently 	12 		(adverb)
+fully 	12 		(adverb)
+generate 	12 		(verb)
+imagination 	12 		(noun)
+letter 	12 		(noun, verb, idiom)
+lock 	12 		(noun, verb, idiom)
+maximum 	12 		(noun, adjective)
+mostly 	12 		(adverb)
+myself 	12 		(pronoun)
+naturally 	12 		(adverb)
+nearly 	12 		(adverb)
+novel 	12 		(noun, adjective)
+obtain 	12 		(verb)
+occasionally 	12 		(adverb)
+option 	12 		(noun, verb)
+organized 	12 		(past, verb)
+pack 	12 		(noun, verb, adjective, idiom)
+park 	12 		(noun, verb)
+passion 	12 		(noun)
+percentage 	12 		(noun)
+plenty 	12 		(noun, adjective, adverb)
+push 	12 		(verb, noun, idiom)
+quarter 	12 		(noun, verb, adjective)
+resource 	12 		(noun)
+select 	12 		(verb, adjective)
+setting 	12 		(noun)
+skin 	12 		(noun, verb)
+sort 	12 		(noun, verb)
+weight 	12 		(noun, verb)
+accept 	11 		(verb)
+ad 	11 		(noun)
+agency 	11 		(noun)
+baby 	11 		(noun, verb, adjective)
+background 	11 		(noun, adjective)
+carefully 	11 		(adverb)
+carry 	11 		(noun, verb)
+clearly 	11 		(adverb)
+college 	11 		(noun)
+communicate 	11 		(verb)
+complain 	11 		(verb)
+conflict 	11 		(verb, noun)
+connection 	11 		(noun)
+criticism 	11 		(noun)
+debt 	11 		(noun)
+depend 	11 		(verb)
+description 	11 		(noun)
+die 	11 		(verb, idiom)
+dish 	11 		(noun, verb, idiom)
+dramatic 	11 		(adjective)
+eat 	11 		(verb, noun, idiom)
+efficient 	11 		(adjective)
+enter 	11 		(verb)
+essentially 	11 		(adverb)
+exact 	11 		(adjective, verb)
+factor 	11 		(noun, verb)
+fair 	11 		(adjective, adverb, noun, idiom)
+fill 	11 		(verb, noun, idiom)
+fine 	11 		(adjective, adverb, verb, noun)
+formal 	11 		(adjective, noun, adverb)
+forward 	11 		(adverb, adjective, noun, verb)
+fruit 	11 		(noun, verb)
+glass 	11 		(noun, adjective, verb)
+happen 	11 		(verb)
+indicate 	11 		(verb)
+joint 	11 		(noun, adjective, verb, idiom)
+jump 	11 		(verb, noun, adjective, adverb)
+kick 	11 		(verb, noun, idiom)
+master 	11 		(noun, adjective, verb)
+memory 	11 		(noun)
+muscle 	11 		(noun, verb, adjective)
+opposite 	11 		(adjective, noun, preposition, adverb)
+pass 	11 		(verb, noun, idiom)
+patience 	11 		(noun)
+pitch 	11 		(verb, noun)
+possibly 	11 		(adverb)
+powerful 	11 		(adjective)
+red 	11 		(noun, adjective, idiom)
+remote 	11 		(adjective, noun)
+secretary 	11 		(noun)
+slightly 	11 		(adverb)
+solution 	11 		(noun)
+somewhat 	11 		(adverb)
+strength 	11 		(noun, idiom)
+suggest 	11 		(verb)
+survive 	11 		(verb)
+total 	11 		(adjective, noun, verb)
+traffic 	11 		(noun, verb)
+treat 	11 		(verb, noun)
+trip 	11 		(noun, verb, idiom)
+vast 	11 		(adjective, noun)
+vegetable 	11 		(noun, adjective)
+abuse 	10 		(verb, noun)
+administration 	10 		(noun)
+appeal 	10 		(noun, verb)
+appreciate 	10 		(verb)
+aspect 	10 		(noun)
+attitude 	10 		(noun)
+beat 	10 		(verb, noun, adjective)
+burn 	10 		(verb, noun)
+chart 	10 		(noun, verb)
+compare 	10 		(verb)
+deposit 	10 		(verb, noun)
+director 	10 		(noun)
+equally 	10 		(adverb)
+foreign 	10 		(adjective)
+gear 	10 		(noun, verb, adjective, idiom)
+greatly 	10 		(adverb)
+hungry 	10 		(adjective)
+ideal 	10 		(noun, adjective)
+imagine 	10 		(verb)
+kitchen 	10 		(noun, adjective)
+land 	10 		(noun, verb, idiom)
+log 	10 		(noun, verb)
+lost 	10 		(adjective, verb, idiom)
+manage 	10 		(verb)
+mother 	10 		(noun, adjective, verb, idiom)
+necessarily 	10 		(adverb)
+net 	10 		(noun, verb)
+party 	10 		(noun, adjective, verb)
+personality 	10 		(noun)
+personally 	10 		(adverb)
+practical 	10 		(adjective)
+principle 	10 		(noun, idiom)
+print 	10 		(verb, noun, adjective, idiom)
+psychological 	10 		(adjective)
+psychology 	10 		(noun)
+raise 	10 		(verb, noun, idiom)
+rarely 	10 		(adverb)
+recommendation 	10 		(noun)
+regularly 	10 		(adverb)
+relative 	10 		(noun, adjective)
+response 	10 		(noun)
+sale 	10 		(noun, idiom)
+season 	10 		(noun, verb, idiom)
+selection 	10 		(noun)
+severe 	10 		(adjective)
+signal 	10 		(noun, adjective, verb)
+similarly 	10 		(adverb)
+sleep 	10 		(verb, noun, idiom)
+smooth 	10 		(adjective, adverb, verb, noun)
+somewhere 	10 		(adverb, noun)
+spirit 	10 		(noun, verb, idiom)
+storage 	10 		(noun)
+street 	10 		(noun, adjective, idiom)
+suitable 	10 		(adjective)
+tree 	10 		(noun, verb, idiom)
+version 	10 		(noun)
+wave 	10 		(noun, verb, idiom)
+advance 	9 		(verb, noun, adjective)
+alcohol 	9 		(noun)
+anywhere 	9 		(adverb, noun)
+argument 	9 		(noun)
+basically 	9 		(adverb)
+belt 	9 		(noun, verb)
+bench 	9 		(noun, verb)
+closed 	9 		(past, verb)
+closely 	9 		(adverb)
+commission 	9 		(noun, verb)
+complaint 	9 		(noun)
+connect 	9 		(verb, adjective)
+consist 	9 		(verb, noun)
+contract 	9 		(noun)
+contribute 	9 		(verb, idiom)
+copy 	9 		(noun, verb, idiom)
+dark 	9 		(adjective, noun, idiom)
+differ 	9 		(verb)
+double 	9 		(adjective, noun, verb, adverb)
+draw 	9 		(verb, noun, idiom)
+drop 	9 		(noun, verb)
+effectively 	9 		(adverb)
+emphasis 	9 		(noun)
+encourage 	9 		(verb)
+equal 	9 		(adjective, noun, verb)
+everybody 	9 		(pronoun)
+expand 	9 		(verb)
+firm 	9 		(adjective, verb, adverb, noun)
+fix 	9 		(verb, noun, idiom)
+frequent 	9 		(adjective, verb)
+highway 	9 		(noun)
+hire 	9 		(verb, noun, adjective, idiom)
+initially 	9 		(adverb)
+internal 	9 		(adjective, noun)
+join 	9 		(verb, noun)
+kill 	9 		(verb, noun, idiom)
+literally 	9 		(adverb)
+loss 	9 		(noun)
+mainly 	9 		(adverb)
+membership 	9 		(noun)
+merely 	9 		(adverb)
+minimum 	9 		(noun, adjective)
+numerous 	9 		(adjective)
+path 	9 		(noun, idiom)
+possession 	9 		(noun)
+preparation 	9 		(noun)
+progress 	9 		(noun, verb, idiom)
+project 	9 		(noun, verb)
+prove 	9 		(verb)
+react 	9 		(verb)
+recognize 	9 		(verb)
+relax 	9 		(verb)
+replace 	9 		(verb)
+sea 	9 		(noun, adjective, idiom)
+sensitive 	9 		(adjective, noun)
+sit 	9 		(verb, idiom)
+south 	9 		(noun, adjective, adverb, verb)
+status 	9 		(noun, adjective)
+steak 	9 		(noun)
+stuff 	9 		(noun, verb)
+sufficient 	9 		(adjective)
+tap 	9 		(verb, noun)
+ticket 	9 		(noun, verb, idiom)
+tour 	9 		(noun, verb)
+union 	9 		(noun)
+unusual 	9 		(adjective)
+win 	9 		(verb, noun)
+agreement 	8 		(noun)
+angle 	8 		(noun, verb)
+attack 	8 		(verb, noun)
+blue 	8 		(noun, verb, adjective)
+borrow 	8 		(verb)
+breakfast 	8 		(noun, verb)
+cancer 	8 		(noun)
+claim 	8 		(verb, noun)
+confidence 	8 		(noun, idiom)
+consistent 	8 		(adjective)
+constant 	8 		(adjective, noun)
+cultural 	8 		(adjective)
+currency 	8 		(noun)
+daughter 	8 		(noun, adjective)
+degree 	8 		(noun, idiom)
+doctor 	8 		(noun, verb)
+dot 	8 		(noun, verb, idiom)
+drag 	8 		(verb, noun, adjective, idiom)
+dream 	8 		(noun, verb, adjective)
+drink 	8 		(verb, noun)
+duty 	8 		(noun, idiom)
+earn 	8 		(verb)
+emphasize 	8 		(verb)
+employment 	8 		(noun)
+enable 	8 		(verb)
+engineering 	8 		(noun)
+entry 	8 		(noun)
+essay 	8 		(noun, verb)
+existing 	8 		(adjective)
+famous 	8 		(adjective)
+father 	8 		(noun, verb)
+fee 	8 		(noun, verb)
+finance 	8 		(noun, verb)
+gently 	8 		(adverb)
+guess 	8 		(verb, noun, idiom)
+hopefully 	8 		(adverb)
+hour 	8 		(noun, adjective, idiom)
+interaction 	8 		(noun)
+juice 	8 		(noun, verb, idiom)
+limit 	8 		(noun, verb)
+luck 	8 		(noun, verb, idiom)
+milk 	8 		(noun, verb, idiom)
+minor 	8 		(adjective, noun, verb)
+mixed 	8 		(past, verb)
+mixture 	8 		(noun)
+mouth 	8 		(noun, verb, idiom)
+nor 	8 		(conjunction)
+operate 	8 		(verb)
+originally 	8 		(adverb)
+peace 	8 		(noun, interjection, verb, idiom)
+pipe 	8 		(noun, verb)
+please 	8 		(adverb, verb, idiom)
+preference 	8 		(noun)
+previous 	8 		(adjective, idiom)
+pull 	8 		(verb, noun)
+pure 	8 		(adjective)
+raw 	8 		(adjective, noun, idiom)
+reflect 	8 		(verb)
+region 	8 		(noun)
+republic 	8 		(noun)
+roughly 	8 		(adverb)
+seat 	8 		(noun, verb)
+send 	8 		(verb)
+significantly 	8 		(adverb)
+soft 	8 		(adjective, noun, adverb, interjection)
+solid 	8 		(adjective, noun)
+stable 	8 		(noun, verb)
+storm 	8 		(noun, verb, idiom)
+substance 	8 		(noun, idiom)
+team 	8 		(noun, verb, adjective)
+tradition 	8 		(noun)
+trick 	8 		(noun, adjective, verb, idiom)
+virus 	8 		(noun)
+wear 	8 		(verb, noun, idiom)
+weird 	8 		(adjective, noun)
+wonder 	8 		(verb, noun, idiom)
+actor 	7 		(noun)
+afraid 	7 		(adjective)
+afternoon 	7 		(noun, adjective)
+amazing 	7 		(adjective, verb)
+annual 	7 		(adjective, noun)
+anticipate 	7 		(verb)
+assume 	7 		(verb)
+bat 	7 		(noun, verb)
+beach 	7 		(noun, verb)
+blank 	7 		(noun, verb, adjective)
+busy 	7 		(adjective, verb)
+catch 	7 		(noun, verb)
+chain 	7 		(noun, verb)
+classroom 	7 		(noun)
+consideration 	7 		(noun, idiom)
+count 	7 		(verb, noun, adjective, idiom)
+cream 	7 		(noun, verb, adjective, idiom)
+crew 	7 		(noun, verb)
+dead 	7 		(adjective, noun, adverb, idiom)
+delivery 	7 		(noun)
+detail 	7 		(noun, verb, idiom)
+detailed 	7 		(past, verb)
+device 	7 		(noun)
+difficulty 	7 		(noun)
+doubt 	7 		(verb, noun, idiom)
+drama 	7 		(noun)
+election 	7 		(noun)
+engage 	7 		(verb)
+engine 	7 		(noun)
+enhance 	7 		(verb)
+examine 	7 		(verb)
+false 	7 		(adjective, adverb, idiom)
+feed 	7 		(verb, noun, idiom)
+football 	7 		(noun)
+forever 	7 		(adverb, noun, idiom)
+gold 	7 		(noun, adjective)
+guidance 	7 		(noun)
+hotel 	7 		(noun)
+impress 	7 		(verb, noun)
+install 	7 		(verb)
+interview 	7 		(noun, verb)
+kid 	7 		(noun, verb, adjective)
+mark 	7 		(noun, verb, idiom)
+match 	7 		(noun, verb)
+mission 	7 		(noun, adjective)
+nobody 	7 		(pronoun, noun)
+obvious 	7 		(adjective)
+ourselves 	7 		(pronoun)
+owner 	7 		(noun)
+pain 	7 		(noun, verb, idiom)
+participate 	7 		(verb)
+pleasure 	7 		(noun, verb)
+priority 	7 		(noun)
+protection 	7 		(noun)
+repeat 	7 		(verb, noun)
+round 	7 		(adjective, noun, adverb, verb)
+score 	7 		(noun, verb, idiom)
+screw 	7 		(noun, verb, idiom)
+seek 	7 		(verb, idiom)
+sex 	7 		(noun, verb, idiom)
+sharp 	7 		(adjective, verb, adverb, noun)
+shop 	7 		(noun, verb, interjection, idiom)
+shower 	7 		(noun, verb, idiom)
+sing 	7 		(verb, noun)
+slide 	7 		(verb, noun, idiom)
+strip 	7 		(verb, noun)
+suggestion 	7 		(noun)
+suit 	7 		(noun, verb, idiom)
+tension 	7 		(noun)
+thick 	7 		(adjective, adverb, noun, idiom)
+tone 	7 		(noun, verb)
+totally 	7 		(adverb)
+twice 	7 		(adverb)
+variation 	7 		(noun)
+whereas 	7 		(conjunction, noun)
+window 	7 		(noun, verb)
+wise 	7 		(adjective, verb, idiom)
+wish 	7 		(verb, noun)
+agent 	6 		(noun, adjective, verb)
+anxiety 	6 		(noun)
+atmosphere 	6 		(noun)
+awareness 	6 		(noun)
+band 	6 		(noun, verb)
+bath 	6 		(noun)
+block 	6 		(noun, verb)
+bone 	6 		(noun, verb, adverb)
+bread 	6 		(noun)
+calendar 	6 		(noun, verb)
+candidate 	6 		(noun)
+cap 	6 		(noun, verb)
+careful 	6 		(adjective)
+climate 	6 		(noun)
+coat 	6 		(noun, verb)
+collect 	6 		(verb, adverb, noun)
+combine 	6 		(verb, noun)
+command 	6 		(verb, noun)
+comparison 	6 		(noun)
+confusion 	6 		(noun)
+construction 	6 		(noun)
+contest 	6 		(noun, verb)
+corner 	6 		(noun, adjective, verb, idiom)
+court 	6 		(noun, verb, idiom)
+cup 	6 		(noun, verb)
+dig 	6 		(verb, noun)
+district 	6 		(noun, verb)
+divide 	6 		(verb, noun)
+door 	6 		(noun, idiom)
+east 	6 		(noun, adjective, adverb)
+elevator 	6 		(noun)
+elsewhere 	6 		(adverb)
+emotion 	6 		(noun)
+employee 	6 		(noun)
+employer 	6 		(noun)
+equivalent 	6 		(adjective, noun)
+everywhere 	6 		(adverb)
+except 	6 		(preposition, conjunction, idiom)
+finger 	6 		(noun, verb, idiom)
+garage 	6 		(noun, verb)
+guarantee 	6 		(noun, verb)
+guest 	6 		(noun)
+hang 	6 		(verb, noun, idiom)
+height 	6 		(noun)
+himself 	6 		(pronoun)
+hole 	6 		(noun, verb, idiom)
+hook 	6 		(noun, verb, idiom)
+hunt 	6 		(verb, noun)
+implement 	6 		(noun, verb)
+initial 	6 		(adjective, noun, verb)
+intend 	6 		(verb)
+introduce 	6 		(verb)
+latter 	6 		(adjective)
+layer 	6 		(noun, verb)
+leadership 	6 		(noun)
+lecture 	6 		(noun, verb)
+lie 	6 		(noun, verb, idiom)
+mall 	6 		(noun)
+manager 	6 		(noun)
+manner 	6 		(noun, idiom)
+march 	6 		(verb, noun, idiom)
+married 	6 		(past, verb, adjective, noun)
+meeting 	6 		(noun, idiom)
+mention 	6 		(verb, noun, idiom)
+narrow 	6 		(adjective, verb, noun)
+nearby 	6 		(adjective, adverb)
+neither 	6 		(conjunction, adjective, pronoun)
+nose 	6 		(noun, verb, idiom)
+obviously 	6 		(adverb)
+operation 	6 		(noun)
+parking 	6 		(noun, adjective)
+partner 	6 		(noun, verb)
+perfectly 	6 		(adverb)
+physically 	6 		(adverb)
+profile 	6 		(noun, verb)
+proud 	6 		(adjective, idiom)
+recording 	6 		(noun)
+relate 	6 		(verb)
+respect 	6 		(noun, verb)
+rice 	6 		(noun, verb)
+routine 	6 		(noun, adjective)
+sample 	6 		(noun)
+schedule 	6 		(noun, verb)
+settle 	6 		(verb)
+smell 	6 		(verb, noun)
+somehow 	6 		(adverb, idiom)
+spiritual 	6 		(adjective, noun)
+survey 	6 		(verb, noun)
+swimming 	6 		(noun, adjective)
+telephone 	6 		(noun, verb)
+tie 	6 		(verb, noun, idiom)
+tip 	6 		(noun, verb)
+transportation 	6 		(noun)
+unhappy 	6 		(adjective)
+wild 	6 		(adjective, adverb, noun, idiom)
+winter 	6 		(noun, adjective, verb)
+absolutely 	5 		(adverb, interjection)
+acceptable 	5 		(adjective)
+adult 	5 		(adjective, noun)
+aggressive 	5 		(adjective)
+airline 	5 		(noun, adjective)
+apart 	5 		(adjective, adverb)
+assure 	5 		(verb)
+attract 	5 		(verb)
+bag 	5 		(noun, verb)
+battle 	5 		(noun, verb)
+bed 	5 		(noun, verb)
+bill 	5 		(noun, verb)
+boring 	5 		(adjective)
+bother 	5 		(noun, verb)
+brief 	5 		(adjective, noun, verb)
+cake 	5 		(noun, verb)
+charity 	5 		(noun)
+code 	5 		(noun, verb)
+cousin 	5 		(noun)
+crazy 	5 		(adjective, noun, idiom)
+curve 	5 		(noun, verb, idiom)
+designer 	5 		(noun, adjective)
+dimension 	5 		(noun, verb)
+disaster 	5 		(noun)
+distinct 	5 		(adjective)
+distribute 	5 		(verb)
+dress 	5 		(noun, adjective, verb)
+ease 	5 		(noun, verb)
+eastern 	5 		(adjective)
+editor 	5 		(noun)
+efficiency 	5 		(noun)
+emergency 	5 		(noun, adjective)
+escape 	5 		(verb, noun, adjective)
+evening 	5 		(noun, adjective)
+excitement 	5 		(noun)
+expose 	5 		(verb, idiom)
+extension 	5 		(noun, adjective)
+extent 	5 		(noun)
+farm 	5 		(noun, verb, idiom)
+feedback 	5 		(noun)
+fight 	5 		(noun, verb)
+gap 	5 		(noun, verb)
+gather 	5 		(verb, noun, idiom)
+grade 	5 		(noun, verb)
+guitar 	5 		(noun)
+hate 	5 		(verb, noun)
+holiday 	5 		(noun, adjective, verb)
+homework 	5 		(noun)
+horror 	5 		(noun, adjective)
+horse 	5 		(noun, verb, adjective, idiom)
+host 	5 		(noun, verb)
+husband 	5 		(noun, verb)
+leader 	5 		(noun)
+loan 	5 		(noun, verb, idiom)
+logical 	5 		(adjective)
+mistake 	5 		(noun, verb, idiom)
+mom 	5 		(noun)
+mountain 	5 		(noun, adjective, idiom)
+nail 	5 		(noun, verb, idiom)
+noise 	5 		(noun, verb)
+none 	5 		(pronoun, adverb, adjective)
+occasion 	5 		(noun, verb, idiom)
+outcome 	5 		(noun)
+overcome 	5 		(verb)
+owe 	5 		(verb)
+package 	5 		(noun, verb)
+patient 	5 		(noun, adjective)
+pause 	5 		(noun, verb, idiom)
+permission 	5 		(noun)
+phrase 	5 		(noun, verb)
+presentation 	5 		(noun)
+prior 	5 		(adjective, noun, idiom)
+promotion 	5 		(noun)
+proof 	5 		(noun, adjective, verb)
+race 	5 		(noun, verb)
+reasonable 	5 		(adjective)
+reflection 	5 		(noun)
+refrigerator 	5 		(noun)
+relief 	5 		(noun, idiom)
+repair 	5 		(verb, noun)
+resolution 	5 		(noun)
+revenue 	5 		(noun)
+rough 	5 		(adjective, noun, adverb, verb)
+sad 	5 		(adjective, noun)
+sand 	5 		(noun, verb, idiom)
+scratch 	5 		(verb, noun, adjective, idiom)
+sentence 	5 		(noun, verb)
+session 	5 		(noun)
+shoulder 	5 		(noun, verb, idiom)
+sick 	5 		(adjective, noun, idiom)
+singer 	5 		(noun)
+smoke 	5 		(noun, verb, idiom)
+stomach 	5 		(noun, verb)
+strange 	5 		(adjective, adverb)
+strict 	5 		(adjective)
+strike 	5 		(verb, noun, adjective, idiom)
+string 	5 		(noun, verb, idiom)
+succeed 	5 		(verb)
+successfully 	5 		(adverb)
+suddenly 	5 		(adverb)
+suffer 	5 		(verb)
+surprised 	5 		(past, verb)
+tennis 	5 		(noun)
+throw 	5 		(verb)
+tourist 	5 		(noun, adverb)
+towel 	5 		(noun, verb)
+truly 	5 		(adverb)
+vacation 	5 		(noun, verb)
+virtually 	5 		(adverb)
+west 	5 		(noun, adjective, adverb, idiom)
+wheel 	5 		(noun, verb, idiom)
+wine 	5 		(noun, adjective, verb, idiom)
+acquire 	4 		(verb)
+adapt 	4 		(verb)
+adjust 	4 		(verb)
+administrative 	4 		(adjective)
+altogether 	4 		(adverb)
+anyway 	4 		(adverb)
+argue 	4 		(verb)
+arise 	4 		(verb)
+arm 	4 		(noun, verb)
+aside 	4 		(noun, adverb)
+associate 	4 		(noun, verb, adjective)
+automatic 	4 		(adjective)
+automatically 	4 		(adverb)
+basket 	4 		(noun)
+bet 	4 		(noun, verb)
+blow 	4 		(noun, verb)
+bonus 	4 		(noun)
+border 	4 		(noun, verb)
+branch 	4 		(noun, verb)
+breast 	4 		(noun, verb)
+brother 	4 		(noun, interjection)
+buddy 	4 		(noun, verb)
+bunch 	4 		(noun, verb)
+cabinet 	4 		(noun)
+childhood 	4 		(noun)
+chip 	4 		(noun, verb)
+church 	4 		(noun)
+civil 	4 		(adjective)
+clothes 	4 		(noun)
+coach 	4 		(noun, verb, adverb)
+coffee 	4 		(noun)
+confirm 	4 		(verb)
+cross 	4 		(noun, verb, adjective)
+deeply 	4 		(adverb)
+definitely 	4 		(adverb)
+deliberately 	4 		(adverb)
+dinner 	4 		(noun)
+document 	4 		(noun, verb)
+draft 	4 		(noun, verb, adjective)
+drawing 	4 		(noun)
+dust 	4 		(noun, verb)
+employ 	4 		(verb, noun)
+encouraging 	4 		(verb)
+expert 	4 		(noun, adjective)
+external 	4 		(adjective, noun)
+floor 	4 		(noun, verb)
+former 	4 		(adjective)
+god 	4 		(noun, interjection)
+golf 	4 		(noun, verb)
+habit 	4 		(noun, verb)
+hair 	4 		(noun)
+hardly 	4 		(adverb)
+hearing 	4 		(noun)
+hurt 	4 		(verb, noun)
+illegal 	4 		(adjective, noun)
+incorporate 	4 		(verb)
+initiative 	4 		(noun)
+iron 	4 		(noun, verb)
+judge 	4 		(noun, verb)
+judgment 	4 		(noun)
+justify 	4 		(verb)
+knife 	4 		(noun, verb)
+lab 	4 		(noun)
+landscape 	4 		(noun, verb)
+laugh 	4 		(verb, noun)
+lay 	4 		(verb, noun, adjective)
+league 	4 		(noun, verb)
+loud 	4 		(adjective, adverb)
+mail 	4 		(noun, verb)
+massive 	4 		(adjective)
+measurement 	4 		(noun)
+mess 	4 		(noun, verb)
+mobile 	4 		(adjective, noun)
+mode 	4 		(noun)
+mud 	4 		(noun)
+nasty 	4 		(adjective, noun)
+native 	4 		(noun, adjective)
+opening 	4 		(noun, adjective)
+orange 	4 		(noun)
+ordinary 	4 		(adjective, noun)
+organize 	4 		(verb)
+ought 	4 		(verb)
+parent 	4 		(noun, verb)
+pattern 	4 		(noun, verb)
+pin 	4 		(noun, verb)
+poetry 	4 		(noun)
+police 	4 		(noun)
+pool 	4 		(noun, verb)
+possess 	4 		(verb)
+possibility 	4 		(noun)
+pound 	4 		(noun, verb)
+procedure 	4 		(noun)
+queen 	4 		(noun)
+ratio 	4 		(noun)
+readily 	4 		(adverb)
+relation 	4 		(noun)
+relieve 	4 		(verb)
+request 	4 		(noun, verb)
+respond 	4 		(verb, noun)
+restaurant 	4 		(noun)
+retain 	4 		(verb)
+royal 	4 		(adjective, noun)
+salary 	4 		(noun, verb)
+satisfaction 	4 		(noun)
+sector 	4 		(noun)
+senior 	4 		(adjective, noun)
+shame 	4 		(noun, verb)
+shelter 	4 		(noun, verb)
+shoe 	4 		(noun, verb)
+shut 	4 		(verb)
+signature 	4 		(noun)
+significance 	4 		(noun)
+silver 	4 		(noun, adjective, verb)
+somebody 	4 		(pronoun)
+song 	4 		(noun)
+southern 	4 		(adjective)
+split 	4 		(verb, noun)
+strain 	4 		(verb, noun)
+struggle 	4 		(verb, noun)
+super 	4 		(adjective, adverb, noun)
+swim 	4 		(verb, noun)
+tackle 	4 		(noun, verb)
+tank 	4 		(noun, verb)
+terribly 	4 		(adverb)
+tight 	4 		(adjective, adverb)
+tooth 	4 		(noun)
+town 	4 		(noun)
+train 	4 		(verb, noun)
+trust 	4 		(noun, verb)
+unfair 	4 		(adjective)
+unfortunately 	4 		(adverb)
+upper 	4 		(adjective, noun)
+vehicle 	4 		(noun)
+visible 	4 		(adjective)
+volume 	4 		(noun)
+wash 	4 		(verb, noun)
+waste 	4 		(verb, adjective, noun)
+wife 	4 		(noun)
+yellow 	4 		(adjective, noun, verb)
+yours 	4 		(pronoun)
+accident 	3 		(noun)
+airport 	3 		(noun)
+alive 	3 		(adjective)
+angry 	3 		(adjective)
+appointment 	3 		(noun)
+arrival 	3 		(noun)
+assist 	3 		(noun, verb)
+assumption 	3 		(noun)
+bake 	3 		(noun, verb)
+bar 	3 		(noun, verb, preposition)
+baseball 	3 		(noun)
+bell 	3 		(noun, verb)
+bike 	3 		(noun, verb)
+blame 	3 		(noun, verb)
+boy 	3 		(noun, interjection)
+brick 	3 		(noun, verb)
+calculate 	3 		(verb)
+chair 	3 		(noun, verb)
+chapter 	3 		(noun)
+closet 	3 		(noun, verb, adjective)
+clue 	3 		(noun, verb)
+collar 	3 		(noun, verb)
+comment 	3 		(noun, verb)
+committee 	3 		(noun)
+compete 	3 		(verb)
+concerning 	3 		(preposition)
+conference 	3 		(noun, verb)
+consult 	3 		(verb)
+conversation 	3 		(noun)
+convert 	3 		(verb, noun)
+crash 	3 		(verb, noun, adjective, adverb)
+database 	3 		(noun)
+deliver 	3 		(verb)
+dependent 	3 		(adjective, noun)
+desperate 	3 		(adjective)
+devil 	3 		(noun, verb)
+diet 	3 		(noun, verb)
+enthusiasm 	3 		(noun)
+error 	3 		(noun)
+exciting 	3 		(adjective)
+explanation 	3 		(noun)
+extend 	3 		(verb)
+farmer 	3 		(noun)
+fear 	3 		(noun, verb)
+fold 	3 		(verb, noun)
+forth 	3 		(adverb)
+friendly 	3 		(adjective)
+fuel 	3 		(noun, verb)
+funny 	3 		(adjective, noun)
+gate 	3 		(noun)
+girl 	3 		(noun)
+glove 	3 		(noun, verb)
+grab 	3 		(verb, noun)
+gross 	3 		(adjective, adverb, verb, noun)
+hall 	3 		(noun)
+herself 	3 		(pronoun)
+hide 	3 		(verb, noun)
+historian 	3 		(noun)
+hospital 	3 		(noun)
+ill 	3 		(adjective, adverb, noun)
+injury 	3 		(noun)
+instruction 	3 		(noun)
+investigate 	3 		(verb)
+jacket 	3 		(noun, verb)
+lucky 	3 		(adjective)
+lunch 	3 		(noun, verb)
+maintenance 	3 		(noun)
+manufacturer 	3 		(noun)
+meal 	3 		(noun)
+miss 	3 		(verb, noun)
+monitor 	3 		(noun, verb)
+mortgage 	3 		(noun, verb)
+negotiate 	3 		(verb)
+nurse 	3 		(noun, verb)
+pace 	3 		(noun, verb, preposition)
+panic 	3 		(noun, verb)
+peak 	3 		(noun, verb, adjective)
+perception 	3 		(noun)
+permit 	3 		(verb, noun)
+pie 	3 		(noun)
+plane 	3 		(noun, adjective, verb)
+poem 	3 		(noun)
+presence 	3 		(noun)
+proposal 	3 		(noun)
+provided 	3 		(past, verb)
+qualify 	3 		(verb)
+quote 	3 		(verb, noun)
+realistic 	3 		(adjective)
+reception 	3 		(noun)
+recover 	3 		(verb, noun)
+replacement 	3 		(noun)
+resolve 	3 		(verb, noun)
+retire 	3 		(verb)
+revolution 	3 		(noun)
+reward 	3 		(noun, verb)
+rid 	3 		(verb)
+river 	3 		(noun)
+roll 	3 		(verb, noun)
+row 	3 		(noun, verb)
+sandwich 	3 		(noun, verb)
+shock 	3 		(noun, verb)
+sink 	3 		(verb, noun)
+slip 	3 		(verb, noun)
+son 	3 		(noun)
+sorry 	3 		(adjective)
+spare 	3 		(adjective, noun, verb)
+speech 	3 		(noun)
+spite 	3 		(noun, verb)
+spray 	3 		(noun, verb)
+surprise 	3 		(noun, verb)
+suspect 	3 		(verb, noun, adjective)
+sweet 	3 		(adjective, noun)
+swing 	3 		(verb, noun)
+tea 	3 		(noun)
+till 	3 		(noun, verb)
+transition 	3 		(noun, verb)
+twist 	3 		(verb, noun)
+ugly 	3 		(adjective)
+unlikely 	3 		(adjective)
+upstairs 	3 		(adjective, noun)
+usual 	3 		(adjective, noun)
+village 	3 		(noun)
+warning 	3 		(noun)
+weekend 	3 		(noun, verb)
+weigh 	3 		(verb)
+welcome 	3 		(noun, interjection, verb, adjective)
+winner 	3 		(noun)
+worker 	3 		(noun)
+writer 	3 		(noun)
+yard 	3 		(noun, verb)
+abroad 	2 		(adverb, noun)
+alarm 	2 		(noun, verb)
+anxious 	2 		(adjective)
+arrive 	2 		(verb)
+assistance 	2 		(noun)
+attach 	2 		(verb)
+behave 	2 		(verb)
+bend 	2 		(noun, verb)
+bicycle 	2 		(noun, verb)
+bite 	2 		(noun, verb)
+blind 	2 		(noun, verb, adjective, adverb)
+bottle 	2 		(noun, verb)
+brave 	2 		(adjective, noun, verb)
+breath 	2 		(noun)
+briefly 	2 		(adverb)
+buyer 	2 		(noun)
+cable 	2 		(noun, verb)
+calm 	2 		(adjective, noun, verb)
+candle 	2 		(noun, verb)
+celebrate 	2 		(verb)
+chest 	2 		(noun)
+chocolate 	2 		(noun)
+clerk 	2 		(noun, verb)
+cloud 	2 		(noun, verb)
+comprehensive 	2 		(adjective)
+concentrate 	2 		(verb, noun)
+concert 	2 		(noun, verb)
+conclusion 	2 		(noun)
+contribution 	2 		(noun)
+convince 	2 		(verb)
+cookie 	2 		(noun)
+counter 	2 		(noun, verb, adverb, adjective)
+courage 	2 		(noun)
+curious 	2 		(adjective)
+dad 	2 		(noun)
+desk 	2 		(noun)
+dirty 	2 		(adjective, verb)
+disagree 	2 		(verb)
+downtown 	2 		(adjective, adverb, noun)
+drawer 	2 		(noun)
+establish 	2 		(verb)
+establishment 	2 		(noun)
+estimate 	2 		(verb, noun)
+examination 	2 		(noun)
+flower 	2 		(noun, verb)
+garbage 	2 		(noun)
+grand 	2 		(adjective, noun)
+grandfather 	2 		(noun, verb)
+grocery 	2 		(noun)
+harm 	2 		(noun, verb)
+honest 	2 		(adjective, adverb)
+honey 	2 		(noun)
+ignore 	2 		(verb)
+imply 	2 		(verb)
+impression 	2 		(noun)
+impressive 	2 		(adjective)
+improvement 	2 		(noun)
+independence 	2 		(noun)
+informal 	2 		(adjective)
+inner 	2 		(adjective)
+insect 	2 		(noun)
+insist 	2 		(verb)
+inspection 	2 		(noun)
+inspector 	2 		(noun)
+king 	2 		(noun)
+knee 	2 		(noun, verb)
+ladder 	2 		(noun)
+lawyer 	2 		(noun, verb)
+leather 	2 		(noun, adjective, verb)
+load 	2 		(noun, verb)
+loose 	2 		(adjective, verb)
+male 	2 		(adjective, noun)
+menu 	2 		(noun)
+mine 	2 		(pronoun, noun, verb)
+mirror 	2 		(noun, verb)
+moreover 	2 		(adverb)
+neck 	2 		(noun, verb)
+penalty 	2 		(noun)
+pension 	2 		(noun, verb)
+piano 	2 		(noun)
+plate 	2 		(noun, verb)
+pleasant 	2 		(adjective)
+pleased 	2 		(past, verb)
+potato 	2 		(noun)
+profession 	2 		(noun)
+professor 	2 		(noun)
+prompt 	2 		(verb, noun, adjective)
+proposed 	2 		(past, verb)
+purple 	2 		(noun, adjective, verb)
+pursue 	2 		(verb)
+quantity 	2 		(noun)
+quiet 	2 		(adjective, noun, verb)
+reaction 	2 		(noun)
+refuse 	2 		(verb, noun)
+regret 	2 		(verb, noun)
+remaining 	2 		(verb)
+requirement 	2 		(noun)
+reveal 	2 		(verb, noun)
+ruin 	2 		(noun, verb)
+rush 	2 		(verb, noun)
+salad 	2 		(noun)
+sexual 	2 		(adjective)
+shake 	2 		(verb, noun)
+shift 	2 		(verb, noun)
+shine 	2 		(verb, noun)
+ship 	2 		(noun, verb)
+sister 	2 		(noun)
+skirt 	2 		(noun, verb)
+slice 	2 		(noun, verb)
+snow 	2 		(noun, verb)
+specialist 	2 		(noun, adjective)
+specify 	2 		(verb)
+steal 	2 		(verb, noun)
+stroke 	2 		(noun, verb)
+strongly 	2 		(adverb)
+suck 	2 		(verb, noun)
+sudden 	2 		(adjective)
+supermarket 	2 		(noun)
+surround 	2 		(verb, noun)
+switch 	2 		(noun, verb)
+terrible 	2 		(adjective)
+tired 	2 		(past, verb)
+tongue 	2 		(noun)
+trash 	2 		(noun, verb)
+tune 	2 		(noun, verb)
+unable 	2 		(adjective)
+warn 	2 		(verb)
+weak 	2 		(adjective)
+weakness 	2 		(noun)
+wedding 	2 		(noun)
+wooden 	2 		(adjective)
+worried 	2 		(past, verb)
+yeah 	2 		(adverb, interjection)
+zone 	2 		(noun, verb)
+accuse 	1 		(verb)
+admire 	1 		(verb)
+admit 	1 		(verb)
+adopt 	1 		(verb)
+affair 	1 		(noun)
+ambition 	1 		(noun)
+analyst 	1 		(noun)
+anger 	1 		(noun, verb)
+announce 	1 		(verb)
+anybody 	1 		(pronoun, noun)
+apologize 	1 		(verb)
+apple 	1 		(noun)
+approve 	1 		(verb)
+asleep 	1 		(adjective)
+assignment 	1 		(noun)
+assistant 	1 		(noun)
+attend 	1 		(verb)
+award 	1 		(noun, verb)
+bathroom 	1 		(noun)
+bear 	1 		(verb, noun)
+bedroom 	1 		(noun)
+beer 	1 		(noun)
+belong 	1 		(verb)
+bid 	1 		(noun, verb)
+birthday 	1 		(noun)
+bitter 	1 		(noun, adjective)
+boot 	1 		(noun, verb)
+brilliant 	1 		(adjective, noun)
+bug 	1 		(noun, verb)
+camp 	1 		(noun, verb, adjective)
+candy 	1 		(noun, verb)
+carpet 	1 		(noun, verb)
+cat 	1 		(noun, verb)
+celebration 	1 		(noun)
+champion 	1 		(noun, verb)
+championship 	1 		(noun)
+channel 	1 		(noun, verb)
+cheek 	1 		(noun)
+client 	1 		(noun)
+clock 	1 		(noun, verb)
+comfort 	1 		(noun, verb)
+commit 	1 		(verb)
+confident 	1 		(adjective)
+conscious 	1 		(adjective)
+consequence 	1 		(noun)
+cow 	1 		(noun, verb)
+crack 	1 		(noun, verb, adjective)
+criticize 	1 		(verb)
+dare 	1 		(verb, noun)
+dear 	1 		(adjective, noun, adverb, interjection)
+decent 	1 		(adjective)
+delay 	1 		(verb, noun)
+departure 	1 		(noun)
+deserve 	1 		(verb)
+destroy 	1 		(verb)
+diamond 	1 		(noun)
+dirt 	1 		(noun)
+disappointed 	1 		(past, verb)
+drunk 	1 		(adjective, noun)
+ear 	1 		(noun)
+embarrassed 	1 		(adjective)
+empty 	1 		(adjective, verb, noun)
+engineer 	1 		(noun, verb)
+entrance 	1 		(noun, verb)
+fault 	1 		(noun, verb)
+female 	1 		(adjective, noun)
+fortune 	1 		(noun)
+friendship 	1 		(noun)
+funeral 	1 		(noun)
+gene 	1 		(noun)
+girlfriend 	1 		(noun)
+grass 	1 		(noun, verb)
+guilty 	1 		(adjective)
+guy 	1 		(noun, verb)
+hat 	1 		(noun)
+hell 	1 		(noun, interjection)
+hesitate 	1 		(verb)
+highlight 	1 		(noun, verb)
+honestly 	1 		(adverb)
+hurry 	1 		(verb, noun)
+illustrate 	1 		(verb)
+incident 	1 		(noun, adjective)
+indication 	1 		(noun)
+inevitable 	1 		(adjective, noun)
+inform 	1 		(verb)
+intention 	1 		(noun)
+invite 	1 		(verb, noun)
+island 	1 		(noun, verb)
+joke 	1 		(noun, verb)
+jury 	1 		(noun, verb, adjective)
+kiss 	1 		(verb, noun)
+lady 	1 		(noun)
+leg 	1 		(noun, verb)
+lip 	1 		(noun, verb)
+lonely 	1 		(adjective)
+mad 	1 		(adjective)
+manufacturing 	1 		(verb)
+marry 	1 		(verb, interjection)
+mate 	1 		(noun, verb)
+midnight 	1 		(noun)
+motor 	1 		(noun, adjective, verb)
+neat 	1 		(adjective, noun)
+negotiation 	1 		(noun)
+nerve 	1 		(noun, verb)
+nervous 	1 		(adjective)
+nowhere 	1 		(adverb, pronoun, adjective)
+obligation 	1 		(noun)
+odd 	1 		(adjective)
+ok 	1 		(adjective, adverb, noun, verb)
+passage 	1 		(noun, verb)
+passenger 	1 		(noun)
+pen 	1 		(noun, verb)
+persuade 	1 		(verb)
+pizza 	1 		(noun)
+platform 	1 		(noun)
+poet 	1 		(noun)
+pollution 	1 		(noun)
+pop 	1 		(verb, noun, adverb, adjective)
+pour 	1 		(verb)
+pray 	1 		(verb, adverb)
+pretend 	1 		(verb, adjective)
+previously 	1 		(adverb)
+pride 	1 		(noun, verb)
+priest 	1 		(noun, verb)
+prize 	1 		(noun, adjective, verb)
+promise 	1 		(noun, verb)
+propose 	1 		(verb)
+punch 	1 		(verb, noun)
+quit 	1 		(verb, noun)
+recognition 	1 		(noun)
+remarkable 	1 		(adjective)
+remind 	1 		(verb)
+reply 	1 		(verb, noun)
+representative 	1 		(adjective, noun)
+reputation 	1 		(noun)
+resident 	1 		(noun, adjective)
+resist 	1 		(verb, noun)
+resort 	1 		(noun, verb)
+ring 	1 		(noun, verb)
+rip 	1 		(verb, noun)
+roof 	1 		(noun, verb)
+rope 	1 		(noun, verb)
+rub 	1 		(verb, noun)
+sail 	1 		(noun, verb)
+scheme 	1 		(noun, verb)
+script 	1 		(noun, verb)
+shall 	1 		(verb)
+shirt 	1 		(noun)
+silly 	1 		(adjective, noun)
+sir 	1 		(noun)
+slight 	1 		(adjective, verb, noun)
+smart 	1 		(adjective, verb, noun)
+smile 	1 		(verb, noun)
+sock 	1 		(noun, verb)
+speaker 	1 		(noun)
+spell 	1 		(verb, noun)
+station 	1 		(noun, verb)
+stranger 	1 		(noun)
+stretch 	1 		(verb, noun)
+stupid 	1 		(adjective, noun)
+submit 	1 		(verb)
+substantial 	1 		(adjective)
+suppose 	1 		(verb)
+surgery 	1 		(noun)
+suspicious 	1 		(adjective)
+sympathy 	1 		(noun)
+tale 	1 		(noun)
+tall 	1 		(adjective)
+tear 	1 		(verb, noun)
+temporary 	1 		(adjective, noun)
+throat 	1 		(noun)
+tiny 	1 		(adjective)
+toe 	1 		(noun, verb)
+tomorrow 	1 		(adverb, noun)
+tower 	1 		(noun, verb)
+trainer 	1 		(noun)
+translate 	1 		(verb)
+truck 	1 		(noun, verb)
+uncle 	1 		(noun)
+wake 	1 		(verb, noun)
+weekly 	1 		(adjective, adverb, noun)
+whoever 	1 		(pronoun)
+witness 	1 		(noun, verb)
+wrap 	1 		(verb, noun)
+yesterday 	1 		(adverb, noun)
+youth 	1 		(noun)
+
+
